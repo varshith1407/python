@@ -1,0 +1,6 @@
+text = input("Enter some text: ")
+
+if text == "":
+    print("You entered an empty string.")
+else:
+    print("You entered something.")
